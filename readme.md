@@ -10,7 +10,7 @@
 资源会优先在公众号发布，本文档后期也会整理成pdf送给大家！欢迎大家扫码关注：
 
 
-[欢迎关注](https://bigsai.oss-cn-shanghai.aliyuncs.com/img/image-20201122214904687.png)
+![欢迎关注](https://bigsai.oss-cn-shanghai.aliyuncs.com/img/image-20201122214904687.png)
 
 
 ## 数据结构与算法
