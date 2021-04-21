@@ -9,6 +9,7 @@
 
 资源会优先在公众号发布，本文档后期也会整理成pdf送给大家！欢迎大家扫码关注：
 
+666
 
 ![欢迎关注](https://bigsai.oss-cn-shanghai.aliyuncs.com/img/image-20201122214904687.png)
 
@@ -143,7 +144,7 @@
  - [LeetCode 79单词搜索.md](leetcode/problems/LeetCode%2079单词搜索.md)
  - [LeetCode 80删除排序数组中的重复项2.md](leetcode/problems/LeetCode%2080删除排序数组中的重复项2.md)
  - [LeetCode 81搜索旋转排序数组2.md](leetcode/problems/LeetCode%2081搜索旋转排序数组2.md)
- 
+
  
 
 
@@ -312,4 +313,20 @@
 - [LeetCode 32最长有效括号(困难)](leetcode/problems/LeetCode%2032最长有效括号(困难).md)
 - [LeetCode 71简化路径.md](leetcode/problems/LeetCode%2071简化路径.md)
 #### 图论
+
+
+
+
+
+
+
+### 刷题tips
+
+
+
+- LeetCode 167两数之和② 双指针
+- LeetCode 152 乘积最大子数组 动态规划 
+- LeetCode 198 打家劫舍 动态规划
+- LeetCode 213 打家劫舍② 动态规划
+- LeetCode 377 打家劫舍③ 动态规划 (树形DP)
 
