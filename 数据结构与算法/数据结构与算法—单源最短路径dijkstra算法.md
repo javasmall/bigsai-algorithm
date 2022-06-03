@@ -74,8 +74,7 @@ Dijkstra的核心思想是贪心算法的思想，那**什么是贪心呢**？
 -  重复二的操作，直到所有点都确定。
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190913133500806.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwNjkzMTcx,size_16,color_FFFFFF,t_70)
 
-
-# 算法实现
+### 算法实现
 
 
 ```java
@@ -160,6 +159,4 @@ public class dijkstra {
 当然，dijkstra算法比较灵活，实现方式也可能有点区别，但是思想是不变的：一个贪心思路。dijkstra执行一次就能够确定一个点，所以只需要执行点的总和次数即可完成整个算法。
 
 欢迎感谢小伙伴点赞、关注，**赠人玫瑰，手有余香**！蟹蟹！
-
-<img src="http://biggsai.com/bigsai.png">
 
