@@ -123,7 +123,7 @@ System.out.println(Arrays.toString(a));
 ```java
 import java.util.Arrays;
 
-public class test {
+public class algorithm.Digui {
 	public static void jishusort(int a[])
 	{
 		int min=Integer.MAX_VALUE;int max=Integer.MIN_VALUE;
